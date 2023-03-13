@@ -88,6 +88,10 @@
 </p>
 
 <div>
+	
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
   ## 📫 &nbsp;My Contacts
   [![LinkedIn Badge](https://img.shields.io/badge/-Abbosbek_Murodov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aim030902/)](https://www.linkedin.com/in/aim030902/)&nbsp;
