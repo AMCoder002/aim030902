@@ -4,6 +4,7 @@
 
 <h1 align="center">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Abbosbek Murodov!;Welcome+to+my+GitHub+Profile!">
+	<img src="https://readme-typing-svg.demolab.com/?lines=I am Full Stack Developer!;Welcome+to+my+GitHub+Profile!">
 </h1>
 <br>
 
