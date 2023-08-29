@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Abbosbek Murodov!;I am FullStack Developer!">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Abbosbek Murodov!;I am Full Stack Developer!">
 </h1>
 <br>
 
