@@ -9,11 +9,11 @@
 
   ## 🧭 &nbsp;About Me
 
-   📚  Student at Tashkent University of information technology
+   📚  A graduate of PDP Academy and a student at Tashkent University of information technology
   <br>
        My faculty is Software Engineering
   <br>
-       I am a junior Java Backend developer.
+       I am a Full Stack Developer.
   <br>
        I am a hardworking with a great interest to learn
   <br>
